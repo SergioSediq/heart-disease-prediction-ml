@@ -18,7 +18,7 @@ Binary classification project predicting heart disease presence using patient me
 
 ## 📊 Dataset
 
-- **Source**: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+- **Source**: [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/nzr8225/heart-disease-dataset)
 - **Size**: 303 patients, 14 attributes
 - **Target**: Binary (0 = No Disease, 1 = Disease)
 - **Balance**: 165 with disease, 138 without (fairly balanced)
